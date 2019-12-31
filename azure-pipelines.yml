@@ -40,6 +40,6 @@ steps:
   inputs:
     command: push
     feedListPublish: 
-    publishVstsFeed: 'Tailspin.SpaceGame.Web.Models1'
+    publishVstsFeed: 'TailspinModels'
     allowPackageConflicts: true
   condition: succeeded()
